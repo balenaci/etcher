@@ -1,4 +1,14 @@
 - commits:
+    - subject: Update README.md
+      hash: 655ea058d8c8db68d6a565bcccff89b8ed112d28
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Giovanni Garufi
+  version: 1.5.117
+  date: 2021-03-05T18:48:03.895Z
+- commits:
     - subject: Only cleanup temporary decompressed files in child-writer
       hash: 48b5e8b9d90fdd9df98e099db1947bb6b2490a5a
       body: ''
