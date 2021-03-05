@@ -1,4 +1,22 @@
 - commits:
+    - subject: Update electron from 9.4.1 to 11.2.3
+      hash: a4659f038eb8ed0aa6ffb7b2e2c22ff5d29250d3
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alexis Svinartchouk
+    - subject: Update etcher-sdk from 6.1.0 to 6.1.1
+      hash: cd462818da6f812fcec547e933964697bfd6847e
+      body: |
+        Update etcher-sdk from 6.1.0 to 6.1.1
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alexis Svinartchouk
+  version: 1.5.117
+  date: 2021-03-05T17:13:34.079Z
+- commits:
     - subject: Only cleanup temporary decompressed files in child-writer
       hash: 48b5e8b9d90fdd9df98e099db1947bb6b2490a5a
       body: ''
