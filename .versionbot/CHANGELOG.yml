@@ -1,4 +1,14 @@
 - commits:
+    - subject: Nothing
+      hash: 59db141f7cb059c2f859c63d43a0b77becbfc6c7
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Alexis Svinartchouk
+  version: 1.5.117
+  date: 2021-03-08T19:02:08.865Z
+- commits:
     - subject: Only cleanup temporary decompressed files in child-writer
       hash: 48b5e8b9d90fdd9df98e099db1947bb6b2490a5a
       body: ''
